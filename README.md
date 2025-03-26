@@ -40,7 +40,7 @@ I developed this tool to streamline the conversion of documents into markdown fo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/MarkEverythingDown.git
+git clone https://github.com/RoffyS/MarkEverythingDown.git
 cd MarkEverythingDown
 
 # Set up a virtual environment
